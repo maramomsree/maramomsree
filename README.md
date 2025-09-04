@@ -3,11 +3,11 @@
 
 - 🚀 Current Mission: **English–Telugu Hate Speech Detection System**
 
-- 📚 Leveling Up In: **Advanced Python NLP frameworks (SpaCy, NLTK), Apache Spark Structured Streaming, and AI model deployment.**
+- 📚 Leveling Up In: **Advanced Python NLP frameworks , Apache Spark Structured Streaming, and AI model deployment.**
 
 - 🤝 Let’s Build Together: **Bringing ideas to life in the world of AI-driven recruitment systems.**
 
-- 🧠 Need Fresh Perspectives On: **Optimizing real-time purchase pattern analytics with Apache Spark.**
+- 🧠 Need Fresh Perspectives On: **How I can align my skills in Python, SQL, and Java with real-world AI applications and industry needs..**
 
 - 🌐 Explore My Work: [https://github.com/maramomsree](https://github.com/maramomsree)
 
